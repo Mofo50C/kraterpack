@@ -1,4 +1,6 @@
 *.md
-radon.*
-saturn.*
-canary.*
+radon*
+saturn*
+canary*
+ferrite*
+rubidium*

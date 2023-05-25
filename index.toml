@@ -91,11 +91,6 @@ hash = "baef31074953d9b1c6c8ece34164c0da08f2e024cfc99b8b62a4f9454133f1dc"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "3984fbdfdfcbf1a7bb11c82c9c56e1d2ea946899da89e8865fb9c576527f5133"
-metafile = true
-
-[[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
 hash = "9d879055f8a5982c7c37d59fc057f28db07c55db718fe18e446d04ba0c89e7d9"
 metafile = true
@@ -158,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "a920b0aaacb4757f06eaecc815747f4ec43c2d1631a81bfafdba94f4af98bb0d"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "4f52308a00319f6b60b5a593ea8531a6552deef4c7f779b30e066718a70f2988"
 metafile = true
 
 [[files]]
