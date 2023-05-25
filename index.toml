@@ -36,11 +36,6 @@ hash = "a425d481b626c29d079a726d9315a59d1e05f8f83648911997eeafefe9b74de8"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "c6558701d14338682a96358fea56306092a1c0e2504298ada36a5e7ea6b62dd3"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "fa73c2e6ec4bd966c0c1001a3e3a9308eab56080e80e4ba74d1bb571866b830e"
 metafile = true
@@ -166,18 +161,8 @@ hash = "a920b0aaacb4757f06eaecc815747f4ec43c2d1631a81bfafdba94f4af98bb0d"
 metafile = true
 
 [[files]]
-file = "mods/radon.pw.toml"
-hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
-metafile = true
-
-[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "4f52308a00319f6b60b5a593ea8531a6552deef4c7f779b30e066718a70f2988"
-metafile = true
-
-[[files]]
-file = "mods/saturn.pw.toml"
-hash = "4b0f79d8e6742d87a92610e6c6a4fe9aa2a4d9b594ae98b429433f06ba6bfc70"
 metafile = true
 
 [[files]]
