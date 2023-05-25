@@ -21,6 +21,11 @@ hash = "3e860073cbd28bc7cfa2a253fa0b09efc9b7bd920114e92fed0ffddb2271bf4c"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "01de4e24db8fbfa51b4790b42addb06e7fa018a3b50cf5168343d22b492799d0"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "3b712c5daed966d640f94a79ec2f8f55569371f6bede717dcb6bf97cabba4f27"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "341719be8d4205cfc4edca5f47174e8909e90de5c5a15522560dca7d99ac0f34"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "75f8249e0ed02eb2648f46ea2a2e07a487cb04dbcfbaa61f6bd7a0302eb1826c"
 metafile = true
 
 [[files]]
@@ -158,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "d2e3456ec98b0f6fe63a1a717ec8008f9abf15ca3c9d60c5a7443f882ee1a1be"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "22fdc827def84ab4d360d9c26e72c85ba32d07d375b8d45c9c183c3d5c98928c"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "01c306d34ef1216ef16005755fb7864061325d224e29fccfaa09d02998786bcf"
 metafile = true
 
 [[files]]
