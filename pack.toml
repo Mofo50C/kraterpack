@@ -1,0 +1,13 @@
+name = "Krater Pack"
+author = "Mofo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8207084cc622719637bb19b78541a862f425bcc417b388f622e74b4da01aa894"
+
+[versions]
+forge = "45.0.64"
+minecraft = "1.19.4"

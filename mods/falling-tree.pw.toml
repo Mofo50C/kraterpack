@@ -1,0 +1,13 @@
+name = "FallingTree (Forge&Fabric)"
+filename = "FallingTree-1.19.4-3.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0932ce5d379cd88729fe16d07d62a6ff8b846b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4501701
+project-id = 349559

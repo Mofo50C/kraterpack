@@ -1,0 +1,13 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-1.19.4-0.3.1.157.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "86aa2a9263e866c7acab281e117d44244a4eb2eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4543964
+project-id = 272515

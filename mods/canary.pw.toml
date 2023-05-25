@@ -1,0 +1,13 @@
+name = "Canary"
+filename = "canary-mc1.19.4-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d02f87469f1829a96078ba3edf09fde2d2bb43d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4551267
+project-id = 665658

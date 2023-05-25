@@ -1,0 +1,241 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "f9506d481f0830c28f9bb49dc763571385717cc523f7fc61a9f3c2689d4d6446"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "1c7153b76c90362b911abe7af8cd8fe50e8059c4081435f413cbabf50ff898a3"
+metafile = true
+
+[[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "376cc0cdbdf7183d701ae6d2293001c4fafb6187b17a8fc4975121ba2472e282"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e462eb39b454cdd75807662eddbe2e02836f0ac3bd879d34cfde426b3b436cc3"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3b712c5daed966d640f94a79ec2f8f55569371f6bede717dcb6bf97cabba4f27"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "dbbedf450241c911344f5098ed76e98e2a8400bdf62315703bf9908874aad9d1"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "c6558701d14338682a96358fea56306092a1c0e2504298ada36a5e7ea6b62dd3"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fa73c2e6ec4bd966c0c1001a3e3a9308eab56080e80e4ba74d1bb571866b830e"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "f9a22405ffab5c57168f4d8f57d2d6f46095c97c3e762f1b7cf24a77571d7db0"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "341719be8d4205cfc4edca5f47174e8909e90de5c5a15522560dca7d99ac0f34"
+metafile = true
+
+[[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "ac64af3cd60f0d0a2c52c02ae5dc7880e8360b9580e279eaff9bc5d5d93c459c"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "136c8bea7c5e0b7f1ac2c3a1718944b9a02409e4591314a7fb808b1c7162586a"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "8ef565bae35c4adbf6a22c2f14f8e11fb364aef54cc04382ad8959c092fc5e81"
+metafile = true
+
+[[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "5740b4b825755bda9ac13a91886b49177decd4afd5c6aaff9259c2a463ecd14e"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-transfer.pw.toml"
+hash = "0a13042c047f2428521697e37bbc429bfd7f288484c8bb445b14d128b5e5e044"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e7cf3962da68e29d8d3238afde5df488f01f7d53620d6ea744d001cc61a48313"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "a91185798a2e24a395c8612ddc4600e73698292ba3e48979b5f471fc3c73b980"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "baef31074953d9b1c6c8ece34164c0da08f2e024cfc99b8b62a4f9454133f1dc"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "3984fbdfdfcbf1a7bb11c82c9c56e1d2ea946899da89e8865fb9c576527f5133"
+metafile = true
+
+[[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "9d879055f8a5982c7c37d59fc057f28db07c55db718fe18e446d04ba0c89e7d9"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "279679ee268b0e27b834f2362c9901c00f10a177255e1e0424284b553dc0ee99"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c12e86298eed17e8a61fbd2ba8df19511e2c4164614f3a3d7a68d05147cd1f56"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "7859eb7c5209d5e2fe5668d55c4123f784a672400f990bfe7348b8afe3d71edb"
+metafile = true
+
+[[files]]
+file = "mods/jumpy-boats.pw.toml"
+hash = "9e6ef865d36d7ac2fc71aa0f7f00e3f791069d9f7985c33d473a1207de754419"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "625d8a430c0a442e13234bb28bbec79f9917a2e33e785b617a6ef96cc63ba64f"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "8eee4aa33f15003a3ac9fd1d2a3fa899dc25ca485b7e7e1407ffdc60d4e51748"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "c8fda5ee3a2b75a6b77c77c874559d695006026b63278d3e1a31864220bbbf31"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "f223c15d885b073b946cc458f4476727f8a992ae3c83368c6c6a4554e8485d64"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "df4f4b586daf5f5d663cfba20d0fc1dc64485c6fbe95a951668f7c7b426e9722"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "3649f87557a0549920ede5e1df4be567cb2f2b6da212d34f8fddcf210d22e791"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d2e3456ec98b0f6fe63a1a717ec8008f9abf15ca3c9d60c5a7443f882ee1a1be"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "460fc4d84f787b2e4607e7d23afe82e6e115bdadb11d0896ab4fc50665b96811"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "4cc0774c87b4e94960d0ca03f53770b83d61556d0378d572da5bc04518f618e2"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "4b0f79d8e6742d87a92610e6c6a4fe9aa2a4d9b594ae98b429433f06ba6bfc70"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "9737563531351374ae2080e92f343aa012da43dfda033d4100f7e1e944c05f03"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "b3be87533f89838a900aa3f0667605d5616dd45bb15aa881dfff1c37690eee30"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "ce075b86497af5c6c94f31ea797ead2e8832413b83a8ef0ad03d19fa6f46b65e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "ca608ff2b81a22fa4832b6b204dd7fb35c5f885251bbd9c3f300ac57f6e1f484"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "a459b7a67684ff2b56508519ba028b1d31409f9e9c0170af04268d2801e1ef06"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "64fbce89d0c0807e740179f9b9f6dfaa53d600fd5933ffc30a0c0226b1fc2399"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-core.pw.toml"
+hash = "3d0daaa5bae341b8828d17d2148f48184a0f91fe52f8146d9d20ed6400be5ef5"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite-ultimerite.pw.toml"
+hash = "b6b7ce35bd2d318b0a200222fe23d4a9979fe148b918edfd5fd80a7ea1851c7f"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite.pw.toml"
+hash = "1aa117abf210814f5e94ebe506ec595b2dcf2da6f2c96a2f6b3f1bd3f8592be4"
+metafile = true
+
+[[files]]
+file = "mods/villager-tools.pw.toml"
+hash = "33ccf10f0d819118b622950ecf28c0cf6d5c61df0de106eb8b69b5432c9e0917"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "937eb2862be2cb6502e9d19a603f638a8313881731f756ee2114bc0f313645c3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4cf7fee8cbbd03b91cf0be879409076b0b0382ead850cf2ed27ebbdce4cfadac"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "15aec9a5f4eb7f3ddb89a89118d858f0d4d4551a3fae43266872a927c2ff1312"
+metafile = true

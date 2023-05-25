@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-forge-1.19.4-11.1.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "33ddc1fc287e544c1ec15d0bd6c14ca9e94aab84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4542104
+project-id = 250398

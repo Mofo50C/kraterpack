@@ -1,0 +1,13 @@
+name = "Deep Aether"
+filename = "deep_aether-1.19.4-1.0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0eddf7e95b4fce64d742942b90fac9d30fec57ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4549021
+project-id = 852465
