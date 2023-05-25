@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "e63963b91b58bfae658009135957c2f06eafd9bc4f65af5c886c237b12fcb932"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "f3169e809d1e337668dfb480c1c31a6c24eb104146dbc1b99a60fbded27b725f"
+
+[[files]]
+file = "config/enchantmenttransfer-common.toml"
+hash = "723c4016fb07e7658dd09227906e19a9b061d9d5989fe5b91f18ca8c3cf88773"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
+file = "config/fixedanvilrepaircost.json5"
+hash = "0f1721149e685ba4cea43f1fdf065a8528bad2049118169fc8ce48b2fc4c3bdc"
+
+[[files]]
+file = "config/lost_aether_content-client.toml"
+hash = "6107977fb12ae7b3617c2f37406c0d9e21ca566786f6d380a06241378869a294"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+hash = "a0875f967db8bf17070c7bd9693424cd1ec2ac46c4ce92a9c9bb2d0147ed565a"
+
+[[files]]
+file = "config/simplebackups-common.toml"
+hash = "646a0635d05c86479aa5de737b19bc9422016819ded3fd54202640c3843fbd19"
+
+[[files]]
+file = "config/travelersbackpack-common.toml"
+hash = "d7e1dd39acbd1756cb37dd55cac05d1ead008f120055f07ba0d9df0bba5bf731"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "b6c974dabc3e6480a4ff4a28bb1e7e979f63a135c928d4ada2f1253c0e31d56c"
+
+[[files]]
 file = "mods/aether-lost-content.pw.toml"
 hash = "f9506d481f0830c28f9bb49dc763571385717cc523f7fc61a9f3c2689d4d6446"
 metafile = true
