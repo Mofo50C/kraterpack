@@ -76,11 +76,6 @@ hash = "0a13042c047f2428521697e37bbc429bfd7f288484c8bb445b14d128b5e5e044"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "e68bf88dc1bb8ebab38e660bb23d2da1b03afbc11a84f6b23edf7220deb5f688"
-metafile = true
-
-[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "fd974d1d2bf1b2daddc24ac2013c49e882d0248100b5f1e22e42e240e2d5f159"
 metafile = true
