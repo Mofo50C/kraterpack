@@ -151,11 +151,6 @@ hash = "d2e3456ec98b0f6fe63a1a717ec8008f9abf15ca3c9d60c5a7443f882ee1a1be"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "a920b0aaacb4757f06eaecc815747f4ec43c2d1631a81bfafdba94f4af98bb0d"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "9737563531351374ae2080e92f343aa012da43dfda033d4100f7e1e944c05f03"
 metafile = true
