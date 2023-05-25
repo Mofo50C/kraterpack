@@ -31,6 +31,11 @@ hash = "f522ec220091fafa902b0fceb2f3ad913b98d21d523a30ccd65c9626db92a254"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "a425d481b626c29d079a726d9315a59d1e05f8f83648911997eeafefe9b74de8"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "c6558701d14338682a96358fea56306092a1c0e2504298ada36a5e7ea6b62dd3"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "5740b4b825755bda9ac13a91886b49177decd4afd5c6aaff9259c2a463ecd14e"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "a5c52a6a1aaf16faf4917304e6c3d7c9522cc5b8a6d970a77ff18990b7389d05"
 metafile = true
 
 [[files]]
