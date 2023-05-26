@@ -1,12 +1,12 @@
 name = "Krater Pack"
 author = "Mofo"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f088b3365b0b7be10995a7f2040ccb62aa98f9da661d3e120f69e38c8507d3b4"
+hash = "49dc7d20e308b5d530871355b02d427a6de104a366b5a6524cbec0fbeef20754"
 
 [versions]
 forge = "45.0.64"

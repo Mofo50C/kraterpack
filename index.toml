@@ -186,11 +186,6 @@ hash = "8eee4aa33f15003a3ac9fd1d2a3fa899dc25ca485b7e7e1407ffdc60d4e51748"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "c8fda5ee3a2b75a6b77c77c874559d695006026b63278d3e1a31864220bbbf31"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "a7dee1490e34f08c6bf06e10f932d675b23494d2c4dfa03ab2143036206225f0"
 metafile = true
