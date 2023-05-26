@@ -81,11 +81,6 @@ hash = "a425d481b626c29d079a726d9315a59d1e05f8f83648911997eeafefe9b74de8"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "c6558701d14338682a96358fea56306092a1c0e2504298ada36a5e7ea6b62dd3"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "fa73c2e6ec4bd966c0c1001a3e3a9308eab56080e80e4ba74d1bb571866b830e"
 metafile = true
