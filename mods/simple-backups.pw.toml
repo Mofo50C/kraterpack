@@ -1,6 +1,6 @@
 name = "Simple Backups"
 filename = "SimpleBackups-1.19.4-2.2.1.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
